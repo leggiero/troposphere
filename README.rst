@@ -39,7 +39,7 @@ To install troposphere with `awacs <https://github.com/cloudtools/awacs>`_
 
 .. code:: sh
 
-    $ pip install troposphere[policy]
+    $ pip install "troposphere[policy]"
 
 Alternatively, you can run use setup.py to install by cloning this repository
 and issuing:
